@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
       <User />
-      <p>Testing</p>
+      <p>Testing 2</p>
     </div>
   );
 }
