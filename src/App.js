@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
       <User />
-      <p>Testing 2</p>
+      <p>Testing from Codespaces A</p>
     </div>
   );
 }
